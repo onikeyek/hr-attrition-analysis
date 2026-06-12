@@ -5,7 +5,7 @@
 > employee attrition using the IBM HR Analytics dataset.
 
 ## 🔗 Live Dashboard
-[View Dashboard →](your-streamlit-url-here)
+[View Dashboard →](https://hr-attrition-onikeyek.streamlit.app/)
 
 ## 📌 Project Overview
 This project analyses 1,470 employee records to identify
